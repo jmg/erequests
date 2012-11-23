@@ -1,4 +1,0 @@
-Erequests
-=========
-
-Requests + Eventlet
